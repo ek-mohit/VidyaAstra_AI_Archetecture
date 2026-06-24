@@ -1,0 +1,42 @@
+the description
+You will be on the link in the description
+I have told you the lecture number
+8, 9, 10
+In the playlist of the DBMS
+Where you will find the full story of the foreign
+Primary
+And in the end
+What is your key constraint
+This is related to the unique
+Unique
+There are many attributes
+But what is the key constraint
+That in your table
+It should be a unique attribute
+It should be a unique attribute
+It is like a half card number
+Unique
+License number
+Unique phone number
+E-mail ID
+But it should be a unique attribute
+And what is unique
+It is related to Candidate
+Candidate is the property
+What is unique
+That is why
+If you summarize this topic
+What is the meaning of this topic
+You have to understand this topic
+What is Candidate
+What is Primary
+And what is Foreign
+And that is the only thing
+In lecture number 8, Candidate
+In lecture number 9, Primary
+And in lecture number 10, Foreign
+So this is why
+To do these topics
+In the end, E-R model
+Relational jabra-relational model
+You will get 

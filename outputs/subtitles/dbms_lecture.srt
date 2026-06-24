@@ -1,0 +1,900 @@
+1
+00:00:00,000 --> 00:00:02,000
+DS students, welcome to GIT Smashers
+
+2
+00:00:02,000 --> 00:00:06,000
+Today's video we are going to explain Integrity Constraints in Database
+
+3
+00:00:06,000 --> 00:00:09,000
+You can see that you created a database
+
+4
+00:00:09,000 --> 00:00:11,000
+There are a lot of tables in the database
+
+5
+00:00:11,000 --> 00:00:13,000
+Now you are going to add data in the tables
+
+6
+00:00:13,000 --> 00:00:16,000
+Obviously, why do you create a database in the action?
+
+7
+00:00:16,000 --> 00:00:20,000
+So that database can organize the proper data properly
+
+8
+00:00:20,000 --> 00:00:23,000
+Later on, we can use it to access something
+
+9
+00:00:23,000 --> 00:00:26,000
+So we need to do some research, to delete it
+
+10
+00:00:26,000 --> 00:00:28,000
+So whenever we talk about the database
+
+11
+00:00:28,000 --> 00:00:31,000
+In this database, when I want to add data
+
+12
+00:00:31,000 --> 00:00:34,000
+I am also adding an unshunt
+
+13
+00:00:34,000 --> 00:00:36,000
+I have picked up all the tables and put it in the file
+
+14
+00:00:36,000 --> 00:00:38,000
+No, there should be no rules there
+
+15
+00:00:38,000 --> 00:00:41,000
+So that the data in the actual database
+
+16
+00:00:41,000 --> 00:00:43,000
+is supposed to be integral
+
+17
+00:00:43,000 --> 00:00:45,000
+What is the meaning of the integral?
+
+18
+00:00:45,000 --> 00:00:49,000
+There is a value, there should be a uniqueness
+
+19
+00:00:49,000 --> 00:00:52,000
+I am saying that the value of X is 100
+
+20
+00:00:52,000 --> 00:00:55,000
+There is a value of X in the database
+
+21
+00:00:55,000 --> 00:00:57,000
+There is a third person's value
+
+22
+00:00:57,000 --> 00:00:58,000
+So there is a third person's value
+
+23
+00:00:58,000 --> 00:01:00,000
+So there is a uniqueness
+
+24
+00:01:00,000 --> 00:01:01,000
+I am not an Integrity
+
+25
+00:01:01,000 --> 00:01:02,000
+So I am not an Integrity
+
+26
+00:01:02,000 --> 00:01:03,000
+So what is the actual value?
+
+27
+00:01:03,000 --> 00:01:07,000
+What is the meaning of these Integrity Constraints?
+
+28
+00:01:07,000 --> 00:01:08,000
+Rules
+
+29
+00:01:08,000 --> 00:01:10,000
+The set of rules
+
+30
+00:01:10,000 --> 00:01:12,000
+Before adding data in the database
+
+31
+00:01:12,000 --> 00:01:14,000
+Before inserting it
+
+32
+00:01:14,000 --> 00:01:15,000
+If we insert it
+
+33
+00:01:15,000 --> 00:01:17,000
+Then if we update it later on
+
+34
+00:01:17,000 --> 00:01:18,000
+We delete it
+
+35
+00:01:18,000 --> 00:01:21,000
+So there is nothing in our hearts
+
+36
+00:01:21,000 --> 00:01:24,000
+There must be some set of rules
+
+37
+00:01:24,000 --> 00:01:25,000
+And those rules
+
+38
+00:01:25,000 --> 00:01:27,000
+They maintain the actual database
+
+39
+00:01:27,000 --> 00:01:30,000
+So that the data is made in accuracy
+
+40
+00:01:30,000 --> 00:01:31,000
+Consistency
+
+41
+00:01:31,000 --> 00:01:32,000
+Reliability
+
+42
+00:01:32,000 --> 00:01:34,000
+This is actually a concept
+
+43
+00:01:34,000 --> 00:01:35,000
+You can say
+
+44
+00:01:35,000 --> 00:01:37,000
+That you maintain the quality of the data
+
+45
+00:01:37,000 --> 00:01:40,000
+Helps the Integrity Constraints
+
+46
+00:01:40,000 --> 00:01:42,000
+It is very simple
+
+47
+00:01:42,000 --> 00:01:43,000
+Note it here
+
+48
+00:01:43,000 --> 00:01:44,000
+Because many times
+
+49
+00:01:44,000 --> 00:01:45,000
+Directly
+
+50
+00:01:45,000 --> 00:01:46,000
+Let us ask this
+
+51
+00:01:46,000 --> 00:01:48,000
+Types of Integrity Constraints
+
+52
+00:01:48,000 --> 00:01:49,000
+So first of all
+
+53
+00:01:49,000 --> 00:01:50,000
+Let us come to you
+
+54
+00:01:50,000 --> 00:01:51,000
+Domain Constraints
+
+55
+00:01:51,000 --> 00:01:52,000
+Domain in actual
+
+56
+00:01:52,000 --> 00:01:53,000
+Means
+
+57
+00:01:53,000 --> 00:01:56,000
+Domain is related to the attributes
+
+58
+00:01:56,000 --> 00:02:00,000
+You will add a lot of attributes in your table
+
+59
+00:02:00,000 --> 00:02:01,000
+Like employee's table
+
+60
+00:02:01,000 --> 00:02:03,000
+Or student's table
+
+61
+00:02:03,000 --> 00:02:04,000
+So you have to say
+
+62
+00:02:04,000 --> 00:02:06,000
+You have to add some student's or employee's age
+
+63
+00:02:06,000 --> 00:02:08,000
+Its name will be added
+
+64
+00:02:08,000 --> 00:02:11,000
+Or let us suppose you have to add a mobile number in it
+
+65
+00:02:11,000 --> 00:02:12,000
+So in this way
+
+66
+00:02:12,000 --> 00:02:14,000
+You will add multiple attributes
+
+67
+00:02:14,000 --> 00:02:15,000
+And you say
+
+68
+00:02:15,000 --> 00:02:17,000
+Sir, can I add anything in this?
+
+69
+00:02:17,000 --> 00:02:18,000
+No
+
+70
+00:02:18,000 --> 00:02:19,000
+So you have to say
+
+71
+00:02:19,000 --> 00:02:21,000
+Sometimes when we make attributes
+
+72
+00:02:21,000 --> 00:02:24,000
+Then we have to mention the data type
+
+73
+00:02:24,000 --> 00:02:27,000
+Like we have to mention the integer type of data
+
+74
+00:02:27,000 --> 00:02:29,000
+Means we have to decide the domain
+
+75
+00:02:29,000 --> 00:02:31,000
+That it will take the data of the integer type
+
+76
+00:02:31,000 --> 00:02:32,000
+You have to add it
+
+77
+00:02:32,000 --> 00:02:34,000
+That it will take the correct type of data
+
+78
+00:02:34,000 --> 00:02:35,000
+So string type of data
+
+79
+00:02:35,000 --> 00:02:36,000
+You have to say
+
+80
+00:02:36,000 --> 00:02:38,000
+That it can take the data of the integer type
+
+81
+00:02:38,000 --> 00:02:40,000
+You have to say
+
+82
+00:02:40,000 --> 00:02:42,000
+That this is the data type
+
+83
+00:02:42,000 --> 00:02:43,000
+But people
+
+84
+00:02:43,000 --> 00:02:44,000
+Or they say
+
+85
+00:02:44,000 --> 00:02:47,000
+When the data is entering in the database
+
+86
+00:02:47,000 --> 00:02:49,000
+What is the value of the entry operator
+
+87
+00:02:49,000 --> 00:02:52,000
+The value of the entry is minus five
+
+88
+00:02:52,000 --> 00:02:55,000
+How much is the student's age is minus five
+
+89
+00:02:55,000 --> 00:02:57,000
+Or how much is the employee's age is zero
+
+90
+00:02:57,000 --> 00:02:58,000
+Is this possible?
+
+91
+00:02:58,000 --> 00:03:01,000
+So here this constant is boiling
+
+92
+00:03:01,000 --> 00:03:03,000
+As if the domain is boiling
+
+93
+00:03:03,000 --> 00:03:06,000
+So this thing keeps the domain constant
+
+94
+00:03:06,000 --> 00:03:08,000
+Let me give a simple example
+
+95
+00:03:08,000 --> 00:03:10,000
+Like by using the check constraint
+
+96
+00:03:10,000 --> 00:03:11,000
+How can you stop it?
+
+97
+00:03:11,000 --> 00:03:13,000
+How can you set the check constraint
+
+98
+00:03:13,000 --> 00:03:14,000
+Up to the age
+
+99
+00:03:14,000 --> 00:03:15,000
+You have set the check
+
+100
+00:03:15,000 --> 00:03:18,000
+The age must be greater than zero
+
+101
+00:03:18,000 --> 00:03:20,000
+So what will happen?
+
+102
+00:03:20,000 --> 00:03:21,000
+If you add a minus five
+
+103
+00:03:21,000 --> 00:03:22,000
+You can't add it
+
+104
+00:03:22,000 --> 00:03:23,000
+It can't be added
+
+105
+00:03:23,000 --> 00:03:24,000
+It will click
+
+106
+00:03:24,000 --> 00:03:25,000
+It will run on the submit
+
+107
+00:03:25,000 --> 00:03:26,000
+It will run on the run
+
+108
+00:03:26,000 --> 00:03:27,000
+If you add zero
+
+109
+00:03:27,000 --> 00:03:28,000
+It will run on the run
+
+110
+00:03:28,000 --> 00:03:29,000
+Like by using a simple example
+
+111
+00:03:29,000 --> 00:03:30,000
+You can say
+
+112
+00:03:30,000 --> 00:03:31,000
+Sir, I added the mobile
+
+113
+00:03:31,000 --> 00:03:32,000
+And there is a note
+
+114
+00:03:32,000 --> 00:03:33,000
+What is happening there?
+
+115
+00:03:33,000 --> 00:03:34,000
+1,2,3
+
+116
+00:03:34,000 --> 00:03:36,000
+9,8,7
+
+117
+00:03:36,000 --> 00:03:37,000
+That means
+
+118
+00:03:37,000 --> 00:03:38,000
+Obviously the mobile
+
+119
+00:03:38,000 --> 00:03:39,000
+You know that it is a 10 digit
+
+120
+00:03:39,000 --> 00:03:40,000
+So if someone has a rate
+
+121
+00:03:40,000 --> 00:03:41,000
+If someone has a rate
+
+122
+00:03:41,000 --> 00:03:42,000
+If someone has a rate
+
+123
+00:03:42,000 --> 00:03:43,000
+So then
+
+124
+00:03:43,000 --> 00:03:45,000
+You can also add a check constraint
+
+125
+00:03:45,000 --> 00:03:47,000
+Check that there is a length
+
+126
+00:03:47,000 --> 00:03:51,000
+The length of the mobile number must be what?
+
+127
+00:03:51,000 --> 00:03:53,000
+It must be equal to 10
+
+128
+00:03:53,000 --> 00:03:55,000
+You can also add a constraint
+
+129
+00:03:55,000 --> 00:03:57,000
+It has a set of rules
+
+130
+00:03:57,000 --> 00:03:59,000
+The later ones in the SQL
+
+131
+00:03:59,000 --> 00:04:01,000
+They implement the SQL
+
+132
+00:04:01,000 --> 00:04:03,000
+But here you have to understand
+
+133
+00:04:03,000 --> 00:04:05,000
+What is the meaning of this constraint?
+
+134
+00:04:05,000 --> 00:04:07,000
+The data that you are adding
+
+135
+00:04:07,000 --> 00:04:09,000
+It should be valued
+
+136
+00:04:09,000 --> 00:04:11,000
+It should be added to something
+
+137
+00:04:11,000 --> 00:04:13,000
+Then you have your integrity
+
+138
+00:04:13,000 --> 00:04:15,000
+Integrity constraint
+
+139
+00:04:15,000 --> 00:04:17,000
+Integrity constraint
+
+140
+00:04:17,000 --> 00:04:21,000
+It is totally related to the primary
+
+141
+00:04:21,000 --> 00:04:23,000
+It is said that the primary
+
+142
+00:04:23,000 --> 00:04:26,000
+It should be equal to a primary
+
+143
+00:04:26,000 --> 00:04:28,000
+So that the uniqueness
+
+144
+00:04:28,000 --> 00:04:31,000
+And it should be not null
+
+145
+00:04:31,000 --> 00:04:33,000
+So the primary
+
+146
+00:04:33,000 --> 00:04:35,000
+It should be equal to
+
+147
+00:04:35,000 --> 00:04:37,000
+It is unique and not null
+
+148
+00:04:37,000 --> 00:04:39,000
+It is unique and not null
+
+149
+00:04:39,000 --> 00:04:41,000
+You cannot repeat the data
+
+150
+00:04:41,000 --> 00:04:43,000
+And it cannot be null
+
+151
+00:04:43,000 --> 00:04:45,000
+So at least one constraint
+
+152
+00:04:45,000 --> 00:04:47,000
+One attribute is
+
+153
+00:04:47,000 --> 00:04:49,000
+It should not be null
+
+154
+00:04:49,000 --> 00:04:51,000
+So what do you do to make the primary
+
+155
+00:04:51,000 --> 00:04:53,000
+And also
+
+156
+00:04:53,000 --> 00:04:55,000
+If you check the playlist of the DBMS
+
+157
+00:04:55,000 --> 00:04:57,000
+So lecture number 8
+
+158
+00:04:57,000 --> 00:04:59,000
+It is said that the primary
+
+159
+00:04:59,000 --> 00:05:01,000
+It is said that the primary
+
+160
+00:05:01,000 --> 00:05:03,000
+And the entire form of the primary
+
+161
+00:05:03,000 --> 00:05:05,000
+So you have to repeat it
+
+162
+00:05:05,000 --> 00:05:07,000
+So you understood the story
+
+163
+00:05:07,000 --> 00:05:09,000
+Then it is said that the referential integrity constraint
+
+164
+00:05:09,000 --> 00:05:11,000
+It is totally related to the
+
+165
+00:05:11,000 --> 00:05:13,000
+Foreign
+
+166
+00:05:13,000 --> 00:05:15,000
+That means
+
+167
+00:05:15,000 --> 00:05:17,000
+There are two tables
+
+168
+00:05:17,000 --> 00:05:19,000
+One table is master table
+
+169
+00:05:19,000 --> 00:05:21,000
+One table is a child table
+
+170
+00:05:21,000 --> 00:05:23,000
+And whatever I am adding in the parent table
+
+171
+00:05:23,000 --> 00:05:25,000
+That is the same in the child table
+
+172
+00:05:25,000 --> 00:05:27,000
+That is the same in the parent table
+
+173
+00:05:27,000 --> 00:05:29,000
+And you are adding the data in the child
+
+174
+00:05:29,000 --> 00:05:31,000
+So there are several referential integrity
+
+175
+00:05:31,000 --> 00:05:33,000
+And it is violating
+
+176
+00:05:33,000 --> 00:05:35,000
+To save it
+
+177
+00:05:35,000 --> 00:05:37,000
+So what is the foreign
+
+178
+00:05:37,000 --> 00:05:39,000
+How do you maintain it
+
+179
+00:05:39,000 --> 00:05:41,000
+I have already told you
+
+180
+00:05:41,000 --> 00:05:43,000
+In the description
+
+181
+00:05:43,000 --> 00:05:45,000
+You will be on the link in the description
+
+182
+00:05:45,000 --> 00:05:47,000
+I have told you the lecture number
+
+183
+00:05:47,000 --> 00:05:49,000
+8, 9, 10
+
+184
+00:05:49,000 --> 00:05:51,000
+In the playlist of the DBMS
+
+185
+00:05:51,000 --> 00:05:53,000
+Where you will find the full story of the foreign
+
+186
+00:05:53,000 --> 00:05:55,000
+Primary
+
+187
+00:05:55,000 --> 00:05:57,000
+And in the end
+
+188
+00:05:57,000 --> 00:05:59,000
+What is your key constraint
+
+189
+00:05:59,000 --> 00:06:01,000
+This is related to the unique
+
+190
+00:06:01,000 --> 00:06:03,000
+Unique
+
+191
+00:06:03,000 --> 00:06:05,000
+There are many attributes
+
+192
+00:06:05,000 --> 00:06:07,000
+But what is the key constraint
+
+193
+00:06:07,000 --> 00:06:09,000
+That in your table
+
+194
+00:06:09,000 --> 00:06:11,000
+It should be a unique attribute
+
+195
+00:06:11,000 --> 00:06:13,000
+It should be a unique attribute
+
+196
+00:06:13,000 --> 00:06:15,000
+It is like a half card number
+
+197
+00:06:15,000 --> 00:06:17,000
+Unique
+
+198
+00:06:17,000 --> 00:06:19,000
+License number
+
+199
+00:06:19,000 --> 00:06:21,000
+Unique phone number
+
+200
+00:06:21,000 --> 00:06:23,000
+E-mail ID
+
+201
+00:06:23,000 --> 00:06:25,000
+But it should be a unique attribute
+
+202
+00:06:25,000 --> 00:06:27,000
+And what is unique
+
+203
+00:06:27,000 --> 00:06:29,000
+It is related to Candidate
+
+204
+00:06:29,000 --> 00:06:31,000
+Candidate is the property
+
+205
+00:06:31,000 --> 00:06:33,000
+What is unique
+
+206
+00:06:33,000 --> 00:06:35,000
+That is why
+
+207
+00:06:35,000 --> 00:06:37,000
+If you summarize this topic
+
+208
+00:06:37,000 --> 00:06:39,000
+What is the meaning of this topic
+
+209
+00:06:39,000 --> 00:06:41,000
+You have to understand this topic
+
+210
+00:06:41,000 --> 00:06:43,000
+What is Candidate
+
+211
+00:06:43,000 --> 00:06:45,000
+What is Primary
+
+212
+00:06:45,000 --> 00:06:47,000
+And what is Foreign
+
+213
+00:06:47,000 --> 00:06:49,000
+And that is the only thing
+
+214
+00:06:49,000 --> 00:06:51,000
+In lecture number 8, Candidate
+
+215
+00:06:51,000 --> 00:06:53,000
+In lecture number 9, Primary
+
+216
+00:06:53,000 --> 00:06:55,000
+And in lecture number 10, Foreign
+
+217
+00:06:55,000 --> 00:06:57,000
+So this is why
+
+218
+00:06:57,000 --> 00:06:59,000
+To do these topics
+
+219
+00:06:59,000 --> 00:07:01,000
+In the end, E-R model
+
+220
+00:07:01,000 --> 00:07:03,000
+Relational jabra-relational model
+
+221
+00:07:03,000 --> 00:07:05,000
+You will get a key in all the topics
+
+222
+00:07:05,000 --> 00:07:07,000
+But now if you do this
+
+223
+00:07:07,000 --> 00:07:09,000
+You will understand the future
+
+224
+00:07:09,000 --> 00:07:11,000
+So this is why
+
+225
+00:07:11,000 --> 00:07:13,000
+Please note it and think
+

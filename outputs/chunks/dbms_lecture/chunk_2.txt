@@ -1,0 +1,41 @@
+So what is the actual value?
+What is the meaning of these Integrity Constraints?
+Rules
+The set of rules
+Before adding data in the database
+Before inserting it
+If we insert it
+Then if we update it later on
+We delete it
+So there is nothing in our hearts
+There must be some set of rules
+And those rules
+They maintain the actual database
+So that the data is made in accuracy
+Consistency
+Reliability
+This is actually a concept
+You can say
+That you maintain the quality of the data
+Helps the Integrity Constraints
+It is very simple
+Note it here
+Because many times
+Directly
+Let us ask this
+Types of Integrity Constraints
+So first of all
+Let us come to you
+Domain Constraints
+Domain in actual
+Means
+Domain is related to the attributes
+You will add a lot of attributes in your table
+Like employee's table
+Or student's table
+So you have to say
+You have to add some student's or employee's age
+Its name will be added
+Or let us suppose you have to add a mobile number in it
+So in this way
+You will add multiple a

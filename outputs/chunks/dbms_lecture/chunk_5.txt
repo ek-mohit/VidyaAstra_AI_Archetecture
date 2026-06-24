@@ -1,0 +1,39 @@
+o a primary
+So that the uniqueness
+And it should be not null
+So the primary
+It should be equal to
+It is unique and not null
+It is unique and not null
+You cannot repeat the data
+And it cannot be null
+So at least one constraint
+One attribute is
+It should not be null
+So what do you do to make the primary
+And also
+If you check the playlist of the DBMS
+So lecture number 8
+It is said that the primary
+It is said that the primary
+And the entire form of the primary
+So you have to repeat it
+So you understood the story
+Then it is said that the referential integrity constraint
+It is totally related to the
+Foreign
+That means
+There are two tables
+One table is master table
+One table is a child table
+And whatever I am adding in the parent table
+That is the same in the child table
+That is the same in the parent table
+And you are adding the data in the child
+So there are several referential integrity
+And it is violating
+To save it
+So what is the foreign
+How do you maintain it
+I have already told you
+In 

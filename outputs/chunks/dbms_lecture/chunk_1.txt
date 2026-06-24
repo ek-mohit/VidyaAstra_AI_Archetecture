@@ -1,0 +1,25 @@
+DS students, welcome to GIT Smashers
+Today's video we are going to explain Integrity Constraints in Database
+You can see that you created a database
+There are a lot of tables in the database
+Now you are going to add data in the tables
+Obviously, why do you create a database in the action?
+So that database can organize the proper data properly
+Later on, we can use it to access something
+So we need to do some research, to delete it
+So whenever we talk about the database
+In this database, when I want to add data
+I am also adding an unshunt
+I have picked up all the tables and put it in the file
+No, there should be no rules there
+So that the data in the actual database
+is supposed to be integral
+What is the meaning of the integral?
+There is a value, there should be a uniqueness
+I am saying that the value of X is 100
+There is a value of X in the database
+There is a third person's value
+So there is a third person's value
+So there is a uniqueness
+I am not an Integrity
+So I am not an Integrity

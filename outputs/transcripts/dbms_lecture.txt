@@ -1,0 +1,225 @@
+DS students, welcome to GIT Smashers
+Today's video we are going to explain Integrity Constraints in Database
+You can see that you created a database
+There are a lot of tables in the database
+Now you are going to add data in the tables
+Obviously, why do you create a database in the action?
+So that database can organize the proper data properly
+Later on, we can use it to access something
+So we need to do some research, to delete it
+So whenever we talk about the database
+In this database, when I want to add data
+I am also adding an unshunt
+I have picked up all the tables and put it in the file
+No, there should be no rules there
+So that the data in the actual database
+is supposed to be integral
+What is the meaning of the integral?
+There is a value, there should be a uniqueness
+I am saying that the value of X is 100
+There is a value of X in the database
+There is a third person's value
+So there is a third person's value
+So there is a uniqueness
+I am not an Integrity
+So I am not an Integrity
+So what is the actual value?
+What is the meaning of these Integrity Constraints?
+Rules
+The set of rules
+Before adding data in the database
+Before inserting it
+If we insert it
+Then if we update it later on
+We delete it
+So there is nothing in our hearts
+There must be some set of rules
+And those rules
+They maintain the actual database
+So that the data is made in accuracy
+Consistency
+Reliability
+This is actually a concept
+You can say
+That you maintain the quality of the data
+Helps the Integrity Constraints
+It is very simple
+Note it here
+Because many times
+Directly
+Let us ask this
+Types of Integrity Constraints
+So first of all
+Let us come to you
+Domain Constraints
+Domain in actual
+Means
+Domain is related to the attributes
+You will add a lot of attributes in your table
+Like employee's table
+Or student's table
+So you have to say
+You have to add some student's or employee's age
+Its name will be added
+Or let us suppose you have to add a mobile number in it
+So in this way
+You will add multiple attributes
+And you say
+Sir, can I add anything in this?
+No
+So you have to say
+Sometimes when we make attributes
+Then we have to mention the data type
+Like we have to mention the integer type of data
+Means we have to decide the domain
+That it will take the data of the integer type
+You have to add it
+That it will take the correct type of data
+So string type of data
+You have to say
+That it can take the data of the integer type
+You have to say
+That this is the data type
+But people
+Or they say
+When the data is entering in the database
+What is the value of the entry operator
+The value of the entry is minus five
+How much is the student's age is minus five
+Or how much is the employee's age is zero
+Is this possible?
+So here this constant is boiling
+As if the domain is boiling
+So this thing keeps the domain constant
+Let me give a simple example
+Like by using the check constraint
+How can you stop it?
+How can you set the check constraint
+Up to the age
+You have set the check
+The age must be greater than zero
+So what will happen?
+If you add a minus five
+You can't add it
+It can't be added
+It will click
+It will run on the submit
+It will run on the run
+If you add zero
+It will run on the run
+Like by using a simple example
+You can say
+Sir, I added the mobile
+And there is a note
+What is happening there?
+1,2,3
+9,8,7
+That means
+Obviously the mobile
+You know that it is a 10 digit
+So if someone has a rate
+If someone has a rate
+If someone has a rate
+So then
+You can also add a check constraint
+Check that there is a length
+The length of the mobile number must be what?
+It must be equal to 10
+You can also add a constraint
+It has a set of rules
+The later ones in the SQL
+They implement the SQL
+But here you have to understand
+What is the meaning of this constraint?
+The data that you are adding
+It should be valued
+It should be added to something
+Then you have your integrity
+Integrity constraint
+Integrity constraint
+It is totally related to the primary
+It is said that the primary
+It should be equal to a primary
+So that the uniqueness
+And it should be not null
+So the primary
+It should be equal to
+It is unique and not null
+It is unique and not null
+You cannot repeat the data
+And it cannot be null
+So at least one constraint
+One attribute is
+It should not be null
+So what do you do to make the primary
+And also
+If you check the playlist of the DBMS
+So lecture number 8
+It is said that the primary
+It is said that the primary
+And the entire form of the primary
+So you have to repeat it
+So you understood the story
+Then it is said that the referential integrity constraint
+It is totally related to the
+Foreign
+That means
+There are two tables
+One table is master table
+One table is a child table
+And whatever I am adding in the parent table
+That is the same in the child table
+That is the same in the parent table
+And you are adding the data in the child
+So there are several referential integrity
+And it is violating
+To save it
+So what is the foreign
+How do you maintain it
+I have already told you
+In the description
+You will be on the link in the description
+I have told you the lecture number
+8, 9, 10
+In the playlist of the DBMS
+Where you will find the full story of the foreign
+Primary
+And in the end
+What is your key constraint
+This is related to the unique
+Unique
+There are many attributes
+But what is the key constraint
+That in your table
+It should be a unique attribute
+It should be a unique attribute
+It is like a half card number
+Unique
+License number
+Unique phone number
+E-mail ID
+But it should be a unique attribute
+And what is unique
+It is related to Candidate
+Candidate is the property
+What is unique
+That is why
+If you summarize this topic
+What is the meaning of this topic
+You have to understand this topic
+What is Candidate
+What is Primary
+And what is Foreign
+And that is the only thing
+In lecture number 8, Candidate
+In lecture number 9, Primary
+And in lecture number 10, Foreign
+So this is why
+To do these topics
+In the end, E-R model
+Relational jabra-relational model
+You will get a key in all the topics
+But now if you do this
+You will understand the future
+So this is why
+Please note it and think

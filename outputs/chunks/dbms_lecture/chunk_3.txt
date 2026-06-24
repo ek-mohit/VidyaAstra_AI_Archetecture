@@ -1,0 +1,35 @@
+ttributes
+And you say
+Sir, can I add anything in this?
+No
+So you have to say
+Sometimes when we make attributes
+Then we have to mention the data type
+Like we have to mention the integer type of data
+Means we have to decide the domain
+That it will take the data of the integer type
+You have to add it
+That it will take the correct type of data
+So string type of data
+You have to say
+That it can take the data of the integer type
+You have to say
+That this is the data type
+But people
+Or they say
+When the data is entering in the database
+What is the value of the entry operator
+The value of the entry is minus five
+How much is the student's age is minus five
+Or how much is the employee's age is zero
+Is this possible?
+So here this constant is boiling
+As if the domain is boiling
+So this thing keeps the domain constant
+Let me give a simple example
+Like by using the check constraint
+How can you stop it?
+How can you set the check constraint
+Up to the age
+You have set the check
+The age must be greater 

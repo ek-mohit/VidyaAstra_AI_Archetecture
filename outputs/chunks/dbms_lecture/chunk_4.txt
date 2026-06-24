@@ -1,0 +1,43 @@
+than zero
+So what will happen?
+If you add a minus five
+You can't add it
+It can't be added
+It will click
+It will run on the submit
+It will run on the run
+If you add zero
+It will run on the run
+Like by using a simple example
+You can say
+Sir, I added the mobile
+And there is a note
+What is happening there?
+1,2,3
+9,8,7
+That means
+Obviously the mobile
+You know that it is a 10 digit
+So if someone has a rate
+If someone has a rate
+If someone has a rate
+So then
+You can also add a check constraint
+Check that there is a length
+The length of the mobile number must be what?
+It must be equal to 10
+You can also add a constraint
+It has a set of rules
+The later ones in the SQL
+They implement the SQL
+But here you have to understand
+What is the meaning of this constraint?
+The data that you are adding
+It should be valued
+It should be added to something
+Then you have your integrity
+Integrity constraint
+Integrity constraint
+It is totally related to the primary
+It is said that the primary
+It should be equal t

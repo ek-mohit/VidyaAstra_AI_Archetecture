@@ -1,0 +1,1132 @@
+{
+    "language": "hi",
+    "language_probability": 0.9952201247215271,
+    "duration": 433.4236875,
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 2.0,
+            "text": "DS students, welcome to GIT Smashers"
+        },
+        {
+            "start": 2.0,
+            "end": 6.0,
+            "text": "Today's video we are going to explain Integrity Constraints in Database"
+        },
+        {
+            "start": 6.0,
+            "end": 9.0,
+            "text": "You can see that you created a database"
+        },
+        {
+            "start": 9.0,
+            "end": 11.0,
+            "text": "There are a lot of tables in the database"
+        },
+        {
+            "start": 11.0,
+            "end": 13.0,
+            "text": "Now you are going to add data in the tables"
+        },
+        {
+            "start": 13.0,
+            "end": 16.0,
+            "text": "Obviously, why do you create a database in the action?"
+        },
+        {
+            "start": 16.0,
+            "end": 20.0,
+            "text": "So that database can organize the proper data properly"
+        },
+        {
+            "start": 20.0,
+            "end": 23.0,
+            "text": "Later on, we can use it to access something"
+        },
+        {
+            "start": 23.0,
+            "end": 26.0,
+            "text": "So we need to do some research, to delete it"
+        },
+        {
+            "start": 26.0,
+            "end": 28.0,
+            "text": "So whenever we talk about the database"
+        },
+        {
+            "start": 28.0,
+            "end": 31.0,
+            "text": "In this database, when I want to add data"
+        },
+        {
+            "start": 31.0,
+            "end": 34.0,
+            "text": "I am also adding an unshunt"
+        },
+        {
+            "start": 34.0,
+            "end": 36.0,
+            "text": "I have picked up all the tables and put it in the file"
+        },
+        {
+            "start": 36.0,
+            "end": 38.0,
+            "text": "No, there should be no rules there"
+        },
+        {
+            "start": 38.0,
+            "end": 41.0,
+            "text": "So that the data in the actual database"
+        },
+        {
+            "start": 41.0,
+            "end": 43.0,
+            "text": "is supposed to be integral"
+        },
+        {
+            "start": 43.0,
+            "end": 45.0,
+            "text": "What is the meaning of the integral?"
+        },
+        {
+            "start": 45.0,
+            "end": 49.0,
+            "text": "There is a value, there should be a uniqueness"
+        },
+        {
+            "start": 49.0,
+            "end": 52.0,
+            "text": "I am saying that the value of X is 100"
+        },
+        {
+            "start": 52.0,
+            "end": 55.0,
+            "text": "There is a value of X in the database"
+        },
+        {
+            "start": 55.0,
+            "end": 57.0,
+            "text": "There is a third person's value"
+        },
+        {
+            "start": 57.0,
+            "end": 58.0,
+            "text": "So there is a third person's value"
+        },
+        {
+            "start": 58.0,
+            "end": 60.0,
+            "text": "So there is a uniqueness"
+        },
+        {
+            "start": 60.0,
+            "end": 61.0,
+            "text": "I am not an Integrity"
+        },
+        {
+            "start": 61.0,
+            "end": 62.0,
+            "text": "So I am not an Integrity"
+        },
+        {
+            "start": 62.0,
+            "end": 63.0,
+            "text": "So what is the actual value?"
+        },
+        {
+            "start": 63.0,
+            "end": 67.0,
+            "text": "What is the meaning of these Integrity Constraints?"
+        },
+        {
+            "start": 67.0,
+            "end": 68.0,
+            "text": "Rules"
+        },
+        {
+            "start": 68.0,
+            "end": 70.0,
+            "text": "The set of rules"
+        },
+        {
+            "start": 70.0,
+            "end": 72.0,
+            "text": "Before adding data in the database"
+        },
+        {
+            "start": 72.0,
+            "end": 74.0,
+            "text": "Before inserting it"
+        },
+        {
+            "start": 74.0,
+            "end": 75.0,
+            "text": "If we insert it"
+        },
+        {
+            "start": 75.0,
+            "end": 77.0,
+            "text": "Then if we update it later on"
+        },
+        {
+            "start": 77.0,
+            "end": 78.0,
+            "text": "We delete it"
+        },
+        {
+            "start": 78.0,
+            "end": 81.0,
+            "text": "So there is nothing in our hearts"
+        },
+        {
+            "start": 81.0,
+            "end": 84.0,
+            "text": "There must be some set of rules"
+        },
+        {
+            "start": 84.0,
+            "end": 85.0,
+            "text": "And those rules"
+        },
+        {
+            "start": 85.0,
+            "end": 87.0,
+            "text": "They maintain the actual database"
+        },
+        {
+            "start": 87.0,
+            "end": 90.0,
+            "text": "So that the data is made in accuracy"
+        },
+        {
+            "start": 90.0,
+            "end": 91.0,
+            "text": "Consistency"
+        },
+        {
+            "start": 91.0,
+            "end": 92.0,
+            "text": "Reliability"
+        },
+        {
+            "start": 92.0,
+            "end": 94.0,
+            "text": "This is actually a concept"
+        },
+        {
+            "start": 94.0,
+            "end": 95.0,
+            "text": "You can say"
+        },
+        {
+            "start": 95.0,
+            "end": 97.0,
+            "text": "That you maintain the quality of the data"
+        },
+        {
+            "start": 97.0,
+            "end": 100.0,
+            "text": "Helps the Integrity Constraints"
+        },
+        {
+            "start": 100.0,
+            "end": 102.0,
+            "text": "It is very simple"
+        },
+        {
+            "start": 102.0,
+            "end": 103.0,
+            "text": "Note it here"
+        },
+        {
+            "start": 103.0,
+            "end": 104.0,
+            "text": "Because many times"
+        },
+        {
+            "start": 104.0,
+            "end": 105.0,
+            "text": "Directly"
+        },
+        {
+            "start": 105.0,
+            "end": 106.0,
+            "text": "Let us ask this"
+        },
+        {
+            "start": 106.0,
+            "end": 108.0,
+            "text": "Types of Integrity Constraints"
+        },
+        {
+            "start": 108.0,
+            "end": 109.0,
+            "text": "So first of all"
+        },
+        {
+            "start": 109.0,
+            "end": 110.0,
+            "text": "Let us come to you"
+        },
+        {
+            "start": 110.0,
+            "end": 111.0,
+            "text": "Domain Constraints"
+        },
+        {
+            "start": 111.0,
+            "end": 112.0,
+            "text": "Domain in actual"
+        },
+        {
+            "start": 112.0,
+            "end": 113.0,
+            "text": "Means"
+        },
+        {
+            "start": 113.0,
+            "end": 116.0,
+            "text": "Domain is related to the attributes"
+        },
+        {
+            "start": 116.0,
+            "end": 120.0,
+            "text": "You will add a lot of attributes in your table"
+        },
+        {
+            "start": 120.0,
+            "end": 121.0,
+            "text": "Like employee's table"
+        },
+        {
+            "start": 121.0,
+            "end": 123.0,
+            "text": "Or student's table"
+        },
+        {
+            "start": 123.0,
+            "end": 124.0,
+            "text": "So you have to say"
+        },
+        {
+            "start": 124.0,
+            "end": 126.0,
+            "text": "You have to add some student's or employee's age"
+        },
+        {
+            "start": 126.0,
+            "end": 128.0,
+            "text": "Its name will be added"
+        },
+        {
+            "start": 128.0,
+            "end": 131.0,
+            "text": "Or let us suppose you have to add a mobile number in it"
+        },
+        {
+            "start": 131.0,
+            "end": 132.0,
+            "text": "So in this way"
+        },
+        {
+            "start": 132.0,
+            "end": 134.0,
+            "text": "You will add multiple attributes"
+        },
+        {
+            "start": 134.0,
+            "end": 135.0,
+            "text": "And you say"
+        },
+        {
+            "start": 135.0,
+            "end": 137.0,
+            "text": "Sir, can I add anything in this?"
+        },
+        {
+            "start": 137.0,
+            "end": 138.0,
+            "text": "No"
+        },
+        {
+            "start": 138.0,
+            "end": 139.0,
+            "text": "So you have to say"
+        },
+        {
+            "start": 139.0,
+            "end": 141.0,
+            "text": "Sometimes when we make attributes"
+        },
+        {
+            "start": 141.0,
+            "end": 144.0,
+            "text": "Then we have to mention the data type"
+        },
+        {
+            "start": 144.0,
+            "end": 147.0,
+            "text": "Like we have to mention the integer type of data"
+        },
+        {
+            "start": 147.0,
+            "end": 149.0,
+            "text": "Means we have to decide the domain"
+        },
+        {
+            "start": 149.0,
+            "end": 151.0,
+            "text": "That it will take the data of the integer type"
+        },
+        {
+            "start": 151.0,
+            "end": 152.0,
+            "text": "You have to add it"
+        },
+        {
+            "start": 152.0,
+            "end": 154.0,
+            "text": "That it will take the correct type of data"
+        },
+        {
+            "start": 154.0,
+            "end": 155.0,
+            "text": "So string type of data"
+        },
+        {
+            "start": 155.0,
+            "end": 156.0,
+            "text": "You have to say"
+        },
+        {
+            "start": 156.0,
+            "end": 158.0,
+            "text": "That it can take the data of the integer type"
+        },
+        {
+            "start": 158.0,
+            "end": 160.0,
+            "text": "You have to say"
+        },
+        {
+            "start": 160.0,
+            "end": 162.0,
+            "text": "That this is the data type"
+        },
+        {
+            "start": 162.0,
+            "end": 163.0,
+            "text": "But people"
+        },
+        {
+            "start": 163.0,
+            "end": 164.0,
+            "text": "Or they say"
+        },
+        {
+            "start": 164.0,
+            "end": 167.0,
+            "text": "When the data is entering in the database"
+        },
+        {
+            "start": 167.0,
+            "end": 169.0,
+            "text": "What is the value of the entry operator"
+        },
+        {
+            "start": 169.0,
+            "end": 172.0,
+            "text": "The value of the entry is minus five"
+        },
+        {
+            "start": 172.0,
+            "end": 175.0,
+            "text": "How much is the student's age is minus five"
+        },
+        {
+            "start": 175.0,
+            "end": 177.0,
+            "text": "Or how much is the employee's age is zero"
+        },
+        {
+            "start": 177.0,
+            "end": 178.0,
+            "text": "Is this possible?"
+        },
+        {
+            "start": 178.0,
+            "end": 181.0,
+            "text": "So here this constant is boiling"
+        },
+        {
+            "start": 181.0,
+            "end": 183.0,
+            "text": "As if the domain is boiling"
+        },
+        {
+            "start": 183.0,
+            "end": 186.0,
+            "text": "So this thing keeps the domain constant"
+        },
+        {
+            "start": 186.0,
+            "end": 188.0,
+            "text": "Let me give a simple example"
+        },
+        {
+            "start": 188.0,
+            "end": 190.0,
+            "text": "Like by using the check constraint"
+        },
+        {
+            "start": 190.0,
+            "end": 191.0,
+            "text": "How can you stop it?"
+        },
+        {
+            "start": 191.0,
+            "end": 193.0,
+            "text": "How can you set the check constraint"
+        },
+        {
+            "start": 193.0,
+            "end": 194.0,
+            "text": "Up to the age"
+        },
+        {
+            "start": 194.0,
+            "end": 195.0,
+            "text": "You have set the check"
+        },
+        {
+            "start": 195.0,
+            "end": 198.0,
+            "text": "The age must be greater than zero"
+        },
+        {
+            "start": 198.0,
+            "end": 200.0,
+            "text": "So what will happen?"
+        },
+        {
+            "start": 200.0,
+            "end": 201.0,
+            "text": "If you add a minus five"
+        },
+        {
+            "start": 201.0,
+            "end": 202.0,
+            "text": "You can't add it"
+        },
+        {
+            "start": 202.0,
+            "end": 203.0,
+            "text": "It can't be added"
+        },
+        {
+            "start": 203.0,
+            "end": 204.0,
+            "text": "It will click"
+        },
+        {
+            "start": 204.0,
+            "end": 205.0,
+            "text": "It will run on the submit"
+        },
+        {
+            "start": 205.0,
+            "end": 206.0,
+            "text": "It will run on the run"
+        },
+        {
+            "start": 206.0,
+            "end": 207.0,
+            "text": "If you add zero"
+        },
+        {
+            "start": 207.0,
+            "end": 208.0,
+            "text": "It will run on the run"
+        },
+        {
+            "start": 208.0,
+            "end": 209.0,
+            "text": "Like by using a simple example"
+        },
+        {
+            "start": 209.0,
+            "end": 210.0,
+            "text": "You can say"
+        },
+        {
+            "start": 210.0,
+            "end": 211.0,
+            "text": "Sir, I added the mobile"
+        },
+        {
+            "start": 211.0,
+            "end": 212.0,
+            "text": "And there is a note"
+        },
+        {
+            "start": 212.0,
+            "end": 213.0,
+            "text": "What is happening there?"
+        },
+        {
+            "start": 213.0,
+            "end": 214.0,
+            "text": "1,2,3"
+        },
+        {
+            "start": 214.0,
+            "end": 216.0,
+            "text": "9,8,7"
+        },
+        {
+            "start": 216.0,
+            "end": 217.0,
+            "text": "That means"
+        },
+        {
+            "start": 217.0,
+            "end": 218.0,
+            "text": "Obviously the mobile"
+        },
+        {
+            "start": 218.0,
+            "end": 219.0,
+            "text": "You know that it is a 10 digit"
+        },
+        {
+            "start": 219.0,
+            "end": 220.0,
+            "text": "So if someone has a rate"
+        },
+        {
+            "start": 220.0,
+            "end": 221.0,
+            "text": "If someone has a rate"
+        },
+        {
+            "start": 221.0,
+            "end": 222.0,
+            "text": "If someone has a rate"
+        },
+        {
+            "start": 222.0,
+            "end": 223.0,
+            "text": "So then"
+        },
+        {
+            "start": 223.0,
+            "end": 225.0,
+            "text": "You can also add a check constraint"
+        },
+        {
+            "start": 225.0,
+            "end": 227.0,
+            "text": "Check that there is a length"
+        },
+        {
+            "start": 227.0,
+            "end": 231.0,
+            "text": "The length of the mobile number must be what?"
+        },
+        {
+            "start": 231.0,
+            "end": 233.0,
+            "text": "It must be equal to 10"
+        },
+        {
+            "start": 233.0,
+            "end": 235.0,
+            "text": "You can also add a constraint"
+        },
+        {
+            "start": 235.0,
+            "end": 237.0,
+            "text": "It has a set of rules"
+        },
+        {
+            "start": 237.0,
+            "end": 239.0,
+            "text": "The later ones in the SQL"
+        },
+        {
+            "start": 239.0,
+            "end": 241.0,
+            "text": "They implement the SQL"
+        },
+        {
+            "start": 241.0,
+            "end": 243.0,
+            "text": "But here you have to understand"
+        },
+        {
+            "start": 243.0,
+            "end": 245.0,
+            "text": "What is the meaning of this constraint?"
+        },
+        {
+            "start": 245.0,
+            "end": 247.0,
+            "text": "The data that you are adding"
+        },
+        {
+            "start": 247.0,
+            "end": 249.0,
+            "text": "It should be valued"
+        },
+        {
+            "start": 249.0,
+            "end": 251.0,
+            "text": "It should be added to something"
+        },
+        {
+            "start": 251.0,
+            "end": 253.0,
+            "text": "Then you have your integrity"
+        },
+        {
+            "start": 253.0,
+            "end": 255.0,
+            "text": "Integrity constraint"
+        },
+        {
+            "start": 255.0,
+            "end": 257.0,
+            "text": "Integrity constraint"
+        },
+        {
+            "start": 257.0,
+            "end": 261.0,
+            "text": "It is totally related to the primary"
+        },
+        {
+            "start": 261.0,
+            "end": 263.0,
+            "text": "It is said that the primary"
+        },
+        {
+            "start": 263.0,
+            "end": 266.0,
+            "text": "It should be equal to a primary"
+        },
+        {
+            "start": 266.0,
+            "end": 268.0,
+            "text": "So that the uniqueness"
+        },
+        {
+            "start": 268.0,
+            "end": 271.0,
+            "text": "And it should be not null"
+        },
+        {
+            "start": 271.0,
+            "end": 273.0,
+            "text": "So the primary"
+        },
+        {
+            "start": 273.0,
+            "end": 275.0,
+            "text": "It should be equal to"
+        },
+        {
+            "start": 275.0,
+            "end": 277.0,
+            "text": "It is unique and not null"
+        },
+        {
+            "start": 277.0,
+            "end": 279.0,
+            "text": "It is unique and not null"
+        },
+        {
+            "start": 279.0,
+            "end": 281.0,
+            "text": "You cannot repeat the data"
+        },
+        {
+            "start": 281.0,
+            "end": 283.0,
+            "text": "And it cannot be null"
+        },
+        {
+            "start": 283.0,
+            "end": 285.0,
+            "text": "So at least one constraint"
+        },
+        {
+            "start": 285.0,
+            "end": 287.0,
+            "text": "One attribute is"
+        },
+        {
+            "start": 287.0,
+            "end": 289.0,
+            "text": "It should not be null"
+        },
+        {
+            "start": 289.0,
+            "end": 291.0,
+            "text": "So what do you do to make the primary"
+        },
+        {
+            "start": 291.0,
+            "end": 293.0,
+            "text": "And also"
+        },
+        {
+            "start": 293.0,
+            "end": 295.0,
+            "text": "If you check the playlist of the DBMS"
+        },
+        {
+            "start": 295.0,
+            "end": 297.0,
+            "text": "So lecture number 8"
+        },
+        {
+            "start": 297.0,
+            "end": 299.0,
+            "text": "It is said that the primary"
+        },
+        {
+            "start": 299.0,
+            "end": 301.0,
+            "text": "It is said that the primary"
+        },
+        {
+            "start": 301.0,
+            "end": 303.0,
+            "text": "And the entire form of the primary"
+        },
+        {
+            "start": 303.0,
+            "end": 305.0,
+            "text": "So you have to repeat it"
+        },
+        {
+            "start": 305.0,
+            "end": 307.0,
+            "text": "So you understood the story"
+        },
+        {
+            "start": 307.0,
+            "end": 309.0,
+            "text": "Then it is said that the referential integrity constraint"
+        },
+        {
+            "start": 309.0,
+            "end": 311.0,
+            "text": "It is totally related to the"
+        },
+        {
+            "start": 311.0,
+            "end": 313.0,
+            "text": "Foreign"
+        },
+        {
+            "start": 313.0,
+            "end": 315.0,
+            "text": "That means"
+        },
+        {
+            "start": 315.0,
+            "end": 317.0,
+            "text": "There are two tables"
+        },
+        {
+            "start": 317.0,
+            "end": 319.0,
+            "text": "One table is master table"
+        },
+        {
+            "start": 319.0,
+            "end": 321.0,
+            "text": "One table is a child table"
+        },
+        {
+            "start": 321.0,
+            "end": 323.0,
+            "text": "And whatever I am adding in the parent table"
+        },
+        {
+            "start": 323.0,
+            "end": 325.0,
+            "text": "That is the same in the child table"
+        },
+        {
+            "start": 325.0,
+            "end": 327.0,
+            "text": "That is the same in the parent table"
+        },
+        {
+            "start": 327.0,
+            "end": 329.0,
+            "text": "And you are adding the data in the child"
+        },
+        {
+            "start": 329.0,
+            "end": 331.0,
+            "text": "So there are several referential integrity"
+        },
+        {
+            "start": 331.0,
+            "end": 333.0,
+            "text": "And it is violating"
+        },
+        {
+            "start": 333.0,
+            "end": 335.0,
+            "text": "To save it"
+        },
+        {
+            "start": 335.0,
+            "end": 337.0,
+            "text": "So what is the foreign"
+        },
+        {
+            "start": 337.0,
+            "end": 339.0,
+            "text": "How do you maintain it"
+        },
+        {
+            "start": 339.0,
+            "end": 341.0,
+            "text": "I have already told you"
+        },
+        {
+            "start": 341.0,
+            "end": 343.0,
+            "text": "In the description"
+        },
+        {
+            "start": 343.0,
+            "end": 345.0,
+            "text": "You will be on the link in the description"
+        },
+        {
+            "start": 345.0,
+            "end": 347.0,
+            "text": "I have told you the lecture number"
+        },
+        {
+            "start": 347.0,
+            "end": 349.0,
+            "text": "8, 9, 10"
+        },
+        {
+            "start": 349.0,
+            "end": 351.0,
+            "text": "In the playlist of the DBMS"
+        },
+        {
+            "start": 351.0,
+            "end": 353.0,
+            "text": "Where you will find the full story of the foreign"
+        },
+        {
+            "start": 353.0,
+            "end": 355.0,
+            "text": "Primary"
+        },
+        {
+            "start": 355.0,
+            "end": 357.0,
+            "text": "And in the end"
+        },
+        {
+            "start": 357.0,
+            "end": 359.0,
+            "text": "What is your key constraint"
+        },
+        {
+            "start": 359.0,
+            "end": 361.0,
+            "text": "This is related to the unique"
+        },
+        {
+            "start": 361.0,
+            "end": 363.0,
+            "text": "Unique"
+        },
+        {
+            "start": 363.0,
+            "end": 365.0,
+            "text": "There are many attributes"
+        },
+        {
+            "start": 365.0,
+            "end": 367.0,
+            "text": "But what is the key constraint"
+        },
+        {
+            "start": 367.0,
+            "end": 369.0,
+            "text": "That in your table"
+        },
+        {
+            "start": 369.0,
+            "end": 371.0,
+            "text": "It should be a unique attribute"
+        },
+        {
+            "start": 371.0,
+            "end": 373.0,
+            "text": "It should be a unique attribute"
+        },
+        {
+            "start": 373.0,
+            "end": 375.0,
+            "text": "It is like a half card number"
+        },
+        {
+            "start": 375.0,
+            "end": 377.0,
+            "text": "Unique"
+        },
+        {
+            "start": 377.0,
+            "end": 379.0,
+            "text": "License number"
+        },
+        {
+            "start": 379.0,
+            "end": 381.0,
+            "text": "Unique phone number"
+        },
+        {
+            "start": 381.0,
+            "end": 383.0,
+            "text": "E-mail ID"
+        },
+        {
+            "start": 383.0,
+            "end": 385.0,
+            "text": "But it should be a unique attribute"
+        },
+        {
+            "start": 385.0,
+            "end": 387.0,
+            "text": "And what is unique"
+        },
+        {
+            "start": 387.0,
+            "end": 389.0,
+            "text": "It is related to Candidate"
+        },
+        {
+            "start": 389.0,
+            "end": 391.0,
+            "text": "Candidate is the property"
+        },
+        {
+            "start": 391.0,
+            "end": 393.0,
+            "text": "What is unique"
+        },
+        {
+            "start": 393.0,
+            "end": 395.0,
+            "text": "That is why"
+        },
+        {
+            "start": 395.0,
+            "end": 397.0,
+            "text": "If you summarize this topic"
+        },
+        {
+            "start": 397.0,
+            "end": 399.0,
+            "text": "What is the meaning of this topic"
+        },
+        {
+            "start": 399.0,
+            "end": 401.0,
+            "text": "You have to understand this topic"
+        },
+        {
+            "start": 401.0,
+            "end": 403.0,
+            "text": "What is Candidate"
+        },
+        {
+            "start": 403.0,
+            "end": 405.0,
+            "text": "What is Primary"
+        },
+        {
+            "start": 405.0,
+            "end": 407.0,
+            "text": "And what is Foreign"
+        },
+        {
+            "start": 407.0,
+            "end": 409.0,
+            "text": "And that is the only thing"
+        },
+        {
+            "start": 409.0,
+            "end": 411.0,
+            "text": "In lecture number 8, Candidate"
+        },
+        {
+            "start": 411.0,
+            "end": 413.0,
+            "text": "In lecture number 9, Primary"
+        },
+        {
+            "start": 413.0,
+            "end": 415.0,
+            "text": "And in lecture number 10, Foreign"
+        },
+        {
+            "start": 415.0,
+            "end": 417.0,
+            "text": "So this is why"
+        },
+        {
+            "start": 417.0,
+            "end": 419.0,
+            "text": "To do these topics"
+        },
+        {
+            "start": 419.0,
+            "end": 421.0,
+            "text": "In the end, E-R model"
+        },
+        {
+            "start": 421.0,
+            "end": 423.0,
+            "text": "Relational jabra-relational model"
+        },
+        {
+            "start": 423.0,
+            "end": 425.0,
+            "text": "You will get a key in all the topics"
+        },
+        {
+            "start": 425.0,
+            "end": 427.0,
+            "text": "But now if you do this"
+        },
+        {
+            "start": 427.0,
+            "end": 429.0,
+            "text": "You will understand the future"
+        },
+        {
+            "start": 429.0,
+            "end": 431.0,
+            "text": "So this is why"
+        },
+        {
+            "start": 431.0,
+            "end": 433.0,
+            "text": "Please note it and think"
+        }
+    ]
+}
