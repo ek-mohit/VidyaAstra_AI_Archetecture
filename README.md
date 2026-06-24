@@ -1,0 +1,1 @@
+# VidyaAstra_AI_Archetecture
